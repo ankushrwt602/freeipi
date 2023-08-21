@@ -9,7 +9,7 @@ const Footer = () => {
             <h3>Content</h3>
             <ul>    
                 <li>
-                    <Link>Calendar of festivities</Link>
+                    <Link>my name is ankush</Link>
                 </li>
                 <li>
                     <Link>New assests</Link>
